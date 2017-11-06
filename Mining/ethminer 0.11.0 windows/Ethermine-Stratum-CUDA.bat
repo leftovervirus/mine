@@ -1,0 +1,1 @@
+ethminer -U -S eu1.ethermine.org:4444 -O 0x9493bc52d3c4ae6c1aee6204cf1793beb07fdd23.stratum --cuda-parallel-hash 4 
